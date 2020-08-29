@@ -67,7 +67,7 @@ class App extends Component {
      alert ('published');
     }
     function Publish() {
-      alert('hogya');
+      alert('Submitted');
     }
 
 
